@@ -168,17 +168,10 @@ img{
 }
 #text1{ 
 text-align: right;
-}
-#text2{
- text-align:;
-}
-#texto1{
-  text-align: center;
+text-align: center;
 }
 #texto2{
   text-align: center;
-}
- {
 }
 .artista {
   display: flex;
@@ -214,4 +207,5 @@ text-align: right;
 }
 .botao-voltar:hover {
     background-color: #f0f0f0;
+
 }
